@@ -18,7 +18,7 @@
     "buttonActive": "#FFFF79C6",
     "onButtonNormal": "#FFF8F8F2",
     "onButtonFocused": "#FF282A36",
-    "onButtonDisabled": "#FFF8F8F2",
+    "onButtonDisabled": "#FF6272A4",
     "inputBackground": "#FF44475A",
     "inputFocused": "#FF44475A",
     "inputBorder": "#FF6272A4",
